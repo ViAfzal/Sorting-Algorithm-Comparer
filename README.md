@@ -1,6 +1,6 @@
 # Introduction
 
-This is a website that animates different sorting algorithms side-by-side as selected by the user. You can visit the website [here](http://sort-compare.xyz/).
+This is a website that animates different sorting algorithms side-by-side as selected by the user. You can visit the website [here](https://viafzal.github.io/sort-compare/).
 
 This project builds off of a traditional sorting algorithm visualizer by its comparison functionality, shifting the focus from *"how do these algorithms sort data?"* to *"why do more involved algorithms like Heap Sort exist?"*
 
