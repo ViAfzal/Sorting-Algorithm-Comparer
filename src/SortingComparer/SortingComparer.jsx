@@ -149,7 +149,7 @@ export default class SortingComparer extends React.Component {
     return (
       <div className="component-container">
         <div id="title">
-          Sorting Algorithm Comparer
+          Sort Compare
         </div>
         <div id="desc">
           Select an algorithm to sort the array on the left,
